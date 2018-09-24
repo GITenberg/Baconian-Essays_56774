@@ -1,16 +1,21 @@
 _repo: Baconian-Essays_56774
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Greenwood, Sir George
     gutenberg_agent_id: '49032'
     url: http://www.gutenberg.org/2009/agents/49032
+covers:
+- cover_type: archival
+  image_path: 56774-h/images/cover.jpg
 creator:
   author:
     agent_name: Smithson, Edward Walter
     gutenberg_agent_id: '49031'
     url: http://www.gutenberg.org/2009/agents/49031
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56774#Baconian-Essays
 gutenberg_issued: '2018-03-18'
 gutenberg_type: Text
 identifiers:
